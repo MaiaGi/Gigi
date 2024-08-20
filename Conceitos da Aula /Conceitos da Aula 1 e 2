@@ -24,11 +24,13 @@ Formatos Proprietários:
 
 Formatos de Arquivos Abertos são formatos de arquivo cujas especificações são publicamente disponíveis e acessíveis. Esses formatos são frequentemente definidos por padrões que são mantidos por organizações independentes ou consórcios.
 Formatos Abertos:
+.png
 .pdf (Portable Document Format): Desenvolvido pela Adobe, é amplamente aceito e pode ser visualizado em vários leitores de PDF, não sendo totalmente proprietário.
 .csv (Comma-Separated Values): Formato aberto para armazenar dados tabulares em texto simples, amplamente suportado por muitos aplicativos.
 .odt (OpenDocument Text): Formato de documento de texto aberto usado por suítes de escritório como LibreOffice e OpenOffice.
 .xml (eXtensible Markup Language): Formato de dados estruturado que é aberto e usado para armazenar e transportar dados de maneira legível por humanos e máquinas.
 
-Implicações relacionadas a dados públicos:
+Dados Públicos são aqueles provinientes da ação estatal que não tem restrição de confidencialidade.
+Implicações relacionadas a formatos de arquivos e  dados públicos:
 A escolha entre formatos de arquivos proprietários e abertos tem várias implicações para dados públicos. Formatos abertos, como .csv e .xml, facilitam o acesso e o uso por qualquer pessoa, promovendo inclusão e transparência. Eles permitem revisão e auditoria independentes, o que aumenta a transparência dos dados. Além disso, formatos abertos são mais adequados para a preservação a longo prazo, pois não dependem de softwares específicos, o que reduz o risco de obsolescência.
 Por outro lado, formatos proprietários, como .docx e .xlsx, podem exigir software específico, limitando o acesso e aumentando os custos de licenciamento. Esses formatos podem também restringir a verificação e análise dos dados, além de apresentar desafios para a preservação futura. Em resumo, formatos abertos geralmente oferecem maior acessibilidade, transparência, preservação e menores custos, tornando-os preferíveis para dados públicos.
