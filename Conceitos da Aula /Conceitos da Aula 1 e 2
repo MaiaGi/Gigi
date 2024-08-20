@@ -12,12 +12,17 @@ Qual a relação entre eles no Brasil? - A LGPD exige que data centers no Brasil
 E no exterior? - A LGPD impõe que data centers no exterior que tratam dados pessoais de brasileiros garantam proteção adequada desses dados. Isso inclui assegurar conformidade com a LGPD por meio de contratos claros e medidas de segurança adequadas. Se dados forem transferidos para fora do Brasil, devem ser implementadas garantias de proteção compatíveis com a legislação brasileira. Data centers internacionais devem também notificar incidentes de segurança e seguir práticas de proteção rigorosas.
 
 Formatos de Arquivos de Dados Proprietários e Abertos:
+
+Formatos de arquivos de dados referem-se às maneiras específicas como os dados são organizados e armazenados dentro de um arquivo. Cada formato tem uma estrutura e um padrão definidos que determinam como as informações são codificadas e como podem ser lidas e manipuladas por diferentes softwares.
+
+Formatos de Arquivos Proprietários são formatos de arquivo cujas especificações são de propriedade de uma empresa ou entidade específica. Normalmente, esses formatos são usados para garantir compatibilidade com software ou hardware específicos e muitas vezes estão sujeitos a patentes ou direitos autorais.
 Formatos Proprietários:
 .docx (Microsoft Word): Formato de documento usado por Microsoft Word, que é proprietário e pode exigir o software específico para acesso completo.
 .xlsx (Microsoft Excel): Formato de planilha usado por Microsoft Excel, proprietário e com funcionalidades exclusivas do software.
 .pst (Microsoft Outlook): Formato para arquivos de dados de e-mail do Microsoft Outlook, proprietário e usado para armazenar e-mails e contatos.
 .ai (Adobe Illustrator): Formato de arquivo gráfico proprietário usado pelo Adobe Illustrator para criar e editar gráficos vetoriais.
 
+Formatos de Arquivos Abertos são formatos de arquivo cujas especificações são publicamente disponíveis e acessíveis. Esses formatos são frequentemente definidos por padrões que são mantidos por organizações independentes ou consórcios.
 Formatos Abertos:
 .pdf (Portable Document Format): Desenvolvido pela Adobe, é amplamente aceito e pode ser visualizado em vários leitores de PDF, não sendo totalmente proprietário.
 .csv (Comma-Separated Values): Formato aberto para armazenar dados tabulares em texto simples, amplamente suportado por muitos aplicativos.
