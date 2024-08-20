@@ -16,3 +16,19 @@ Por outro lado, JavaScript é predominantemente usada para criar interatividade 
 C++ se destaca por ser uma linguagem compilada e tipada estaticamente, o que requer que os tipos de variáveis sejam declarados explicitamente e o código seja compilado antes da execução. Essa abordagem oferece um controle detalhado sobre o hardware e a memória, tornando C++ ideal para aplicações que demandam alta performance, como softwares de sistemas e jogos. Sua capacidade de gerenciamento de memória e recursos do sistema a torna uma escolha preferencial para desenvolvimentos que necessitam de otimização e eficiência.
 
 Código mínimo de cada um e sua execução:
+
+1.3. Python: print("Hello Class!")
+Executado:
+
+2.3. JavaScript: console.log("Hello Class")
+Executado:
+
+3.3. C++ : #include <iostream>
+
+int main() {
+    std::cout << "Hello Class!" << std::endl;
+    return 0;
+}
+Executado:
+
+
