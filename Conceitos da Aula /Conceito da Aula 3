@@ -29,6 +29,6 @@ int main() {
     std::cout << "Hello Class!" << std::endl;
     return 0;
 }
-Executado:
+Executado: https://github.com/MaiaGi/Gigi/blob/main/C%2B%2B%20EXECUTADO.PNG
 
 
