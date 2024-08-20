@@ -1,1 +1,18 @@
+Escolhi 3 linguagens de progamação: Python         JavaScript         C++
 
+1. Python é uma linguagem de programação de alto nível, conhecida por sua sintaxe simples e legibilidade. É muito utilizada em desenvolvimento web, ciência de dados, automação, inteligência artificial e muitas outras áreas.
+
+2. JavaScript é uma linguagem de programação amplamente usada para criar interatividade em páginas web. É executada no navegador do usuário e pode ser usada para criar efeitos dinâmicos em sites, jogos e aplicações web.
+
+3. C++ é uma linguagem de programação de propósito geral, que é uma extensão do C com suporte a programação orientada a objetos. É amplamente usada em desenvolvimento de software para sistemas, jogos e aplicações de alta performance.
+
+A diferença entre eles:
+1.2.  Python é fácil de aprender, interpretada e tipada dinamicamente, ideal para prototipagem rápida e scripts. 
+2.2.  JavaScript é executada no navegador para interatividade web e pode ser usada no servidor com Node.js, também é tipada dinamicamente. 
+3.2.  C++ é uma linguagem compilada e tipada estaticamente, adequada para aplicações de alta performance e controle detalhado sobre hardware e memória.
+
+Python, JavaScript e C++ são três linguagens de programação amplamente utilizadas, cada uma com suas características e aplicações distintas. Python é conhecida por sua facilidade de aprendizado, sendo uma linguagem interpretada e tipada dinamicamente. Isso a torna ideal para prototipagem rápida e desenvolvimento de scripts, proporcionando uma sintaxe clara e concisa que é amigável para iniciantes e eficiente para desenvolvedores experientes.
+Por outro lado, JavaScript é predominantemente usada para criar interatividade em páginas web e é executada diretamente no navegador. Além disso, com o uso de Node.js, JavaScript pode ser executada também no servidor, permitindo um desenvolvimento de aplicações web completas em uma única linguagem. Assim como Python, JavaScript é tipada dinamicamente, o que facilita a criação rápida de funcionalidades dinâmicas em websites.
+C++ se destaca por ser uma linguagem compilada e tipada estaticamente, o que requer que os tipos de variáveis sejam declarados explicitamente e o código seja compilado antes da execução. Essa abordagem oferece um controle detalhado sobre o hardware e a memória, tornando C++ ideal para aplicações que demandam alta performance, como softwares de sistemas e jogos. Sua capacidade de gerenciamento de memória e recursos do sistema a torna uma escolha preferencial para desenvolvimentos que necessitam de otimização e eficiência.
+
+Código mínimo de cada um e sua execução:
