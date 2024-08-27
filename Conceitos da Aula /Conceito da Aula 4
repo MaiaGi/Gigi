@@ -12,3 +12,26 @@ Código Executado:
 https://github.com/MaiaGi/Gigi/blob/main/PYTHON%20EXECUTADO%20AULA%2004.PNG
 
 – Uma estrutura de tomada de decisão
+Código:
+# Solicita ao usuário para inserir um número
+numero = int(input("Digite um número inteiro: "))
+
+# Verifica se o número é par ou ímpar
+if numero % 2 == 0:
+    paridade = "par"
+else:
+    paridade = "ímpar"
+
+# Classifica o número com base em sua magnitude
+if numero < 10:
+    tamanho = "pequeno"
+elif numero <= 100:
+    tamanho = "médio"
+else:
+    tamanho = "grande"
+
+# Exibe os resultados
+print(f"O número {numero} é {paridade} e {tamanho}.")
+
+Código Executado:
+
