@@ -1,4 +1,5 @@
 Utilizando a linguagem de programação Python, implemente um ou mais códigos de exemplo dos seguintes elementos:
+
 – Uma estrutura de repetição
 Código:
 contador = 1
@@ -8,6 +9,6 @@ while contador <= 10:
     contador += 1
 
 Código Executado:
-
+https://github.com/MaiaGi/Gigi/blob/main/PYTHON%20EXECUTADO%20AULA%2004.PNG
 
 – Uma estrutura de tomada de decisão
