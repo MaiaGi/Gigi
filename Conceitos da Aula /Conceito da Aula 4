@@ -1,1 +1,13 @@
+Utilizando a linguagem de programação Python, implemente um ou mais códigos de exemplo dos seguintes elementos:
+– Uma estrutura de repetição
+Código:
+contador = 1
+print("\nContagem usando loop while:")
+while contador <= 10:
+    print(contador)
+    contador += 1
 
+Código Executado:
+
+
+– Uma estrutura de tomada de decisão
