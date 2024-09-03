@@ -25,3 +25,6 @@ lista_nao_ordenada = [64, 34, 25, 12, 22, 11, 90]
 lista_ordenada = bubble_sort(lista_nao_ordenada)
 print(f"Lista original: {lista_nao_ordenada}")
 print(f"Lista ordenada: {lista_ordenada}")
+
+Código executado:
+https://github.com/MaiaGi/Gigi/blob/main/AULA%205.PNG
