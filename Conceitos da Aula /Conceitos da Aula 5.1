@@ -1,1 +1,17 @@
+2 – implemente um algorítimo que imprima apenas as vogais de uma determinada palavra ou frase.
+
+def extract_vowels(text):
+    """
+    Extrai e imprime apenas as vogais de uma palavra ou frase.
+    :param text: Texto de entrada
+    """
+    vowels = "aeiouAEIOU"
+    result = [char for char in text if char in vowels]
+    print("".join(result))
+
+# Exemplo de uso
+palavra_frase = "Oi meu nome é Giovanna!"
+extract_vowels(palavra_frase)
+
+Código executado:
 
