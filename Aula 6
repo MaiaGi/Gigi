@@ -1,1 +1,15 @@
+Crie uma função que imprima as informações de três parâmetros: 
+nome, idade, e cidade, de maneira formatada. Use os argumentos sep
+e end da função print( ) para organizar a saída.
+Exemplo Saída:
+Nome: Alice - Idade: 25 - Cidade: São Paulo!
 
+FUNÇÃO:
+def imprimir_informacoes(nome, idade, cidade):
+    print("Nome:", nome, sep=" ", end=" - ")
+    print("Idade:", idade, sep=" ", end=" - ")
+    print("Cidade:", cidade, sep=" ", end="!\n")
+
+imprimir_informacoes("Giovanna", 21, "Rio de Janeiro")
+
+CODÍGO EXECUTADO:
