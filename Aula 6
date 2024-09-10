@@ -1,6 +1,4 @@
-Crie uma função que imprima as informações de três parâmetros: 
-nome, idade, e cidade, de maneira formatada. Use os argumentos sep
-e end da função print( ) para organizar a saída.
+1.Crie uma função que imprima as informações de três parâmetros: nome, idade, e cidade, de maneira formatada. Use os argumentos sep e end da função print( ) para organizar a saída.
 Exemplo Saída:
 Nome: Alice - Idade: 25 - Cidade: São Paulo!
 
@@ -13,3 +11,38 @@ def imprimir_informacoes(nome, idade, cidade):
 imprimir_informacoes("Giovanna", 21, "Rio de Janeiro")
 
 CODÍGO EXECUTADO:
+https://github.com/MaiaGi/Gigi/blob/main/IMAGENS/AULA%206.PNG
+
+2.Escreva uma função que peça ao usuário dois números e a operação desejada ('+', '-', '*' ou '/'). Sua função deve calcular e imprimir o resultado da operação especificada.
+
+FUNÇÃO:
+
+CÓDIGO EXECUTADO:
+
+3.Crie uma função que peça ao usuário para digitar itens de uma lista de compras, separados por vírgula. Armazene esses itens em uma lista e, ao final, imprima todos os itens em linhas separadas usando um 
+laço.Exemplo de Entrada:
+Digite os itens da lista de compras: leite, ovos, pão, manteiga
+Exemplo de Saída:
+Item 1: leite
+Item 2: ovos
+Item 3: pão
+Item 4: manteiga
+
+FUNÇÃO:
+
+4.
+
+FUNÇÃO:
+def celsius_para_fahrenheit():
+    # Exemplo de entrada concreta
+    celsius = 25  # Temperatura em graus Celsius
+    fahrenheit = (celsius * 9/5) + 32  # Converte para Fahrenheit
+    
+    # Imprime o resultado
+    print(f"{celsius}°C é igual a {fahrenheit}°F")
+
+# Chamando a função para fornecer o exemplo concreto
+celsius_para_fahrenheit()
+
+CÓDIGO EXECUTADO:
+
