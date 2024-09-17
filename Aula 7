@@ -10,3 +10,14 @@ def grava_nome_em_arquivo():
 grava_nome_em_arquivo()
 
 2) Escreva uma função que peça ao usuário o nome de um arquivo de texto e imprima o seu conteúdo. Obs.: considere que o usuário sempre informa o nome de um arquivo que existente.
+
+def imprime_conteudo_arquivo():
+    nome_arquivo = input("Por favor, insira o nome do arquivo (com extensão): ")
+    with open(nome_arquivo, "r") as arquivo:
+        conteudo = arquivo.read()
+    print("\nConteúdo do arquivo:")
+    print(conteudo)
+
+# Chamando a função
+imprime_conteudo_arquivo()
+
