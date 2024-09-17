@@ -1,0 +1,12 @@
+1) Escreva uma função que pede que o usuário informe seu nome pelo teclado e grave essa informação em um arquivo de texto:
+
+def grava_nome_em_arquivo():
+    nome = input("Por favor, insira seu nome: ")
+    with open("nome_usuario.txt", "w") as arquivo:
+        arquivo.write(nome)
+    print("Nome gravado com sucesso!")
+
+# Chamando a função
+grava_nome_em_arquivo()
+
+2) Escreva uma função que peça ao usuário o nome de um arquivo de texto e imprima o seu conteúdo. Obs.: considere que o usuário sempre informa o nome de um arquivo que existente.
